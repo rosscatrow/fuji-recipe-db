@@ -126,6 +126,28 @@
       "notes": "Inspired by Charles Traub 1970s street portraits. Suggested exposure comp: +1/3 to 2/3. Suggested ISO: Auto to 3200."
     },
     {
+      "name": "Traub Lunchtime v2",
+      "source": "custom",
+      "source_url": null,
+      "film_simulation": "Nostalgic Neg.",
+      "highlight_tone": -2,
+      "shadow_tone": -2,
+      "color": -1,
+      "color_chrome": "Weak",
+      "color_chrome_fx_blue": "Weak",
+      "grain_roughness": "Strong",
+      "grain_size": "Small",
+      "sharpness": -1,
+      "noise_reduction": -4,
+      "clarity": -2,
+      "white_balance": "5600K",
+      "wb_red_shift": 5,
+      "wb_blue_shift": -4,
+      "dynamic_range": "DR400",
+      "star_color": null,
+      "notes": "Revision of Traub Lunchtime based on side-by-side comparison with Traub originals. Key changes vs v1: shadows lifted (+1 → -2), highlights softer (-1 → -2), DR200 → DR400 for midday sun, Color Chrome FX Strong → Weak (less primary punch), grain Large → Small (finer Kodacolor-like grain), Clarity 0 → -2 (softer micro-contrast), WB shift R+3/B-2 → R+5/B-4 (deeper amber cast). Suggested exposure comp: +1/3 to +2/3. Suggested ISO: Auto to 3200."
+    },
+    {
       "name": "The Rockwell",
       "source": "fujixweekly",
       "source_url": "https://fujixweekly.com/2020/07/18/fujifilm-x100v-film-simulation-recipe-the-rockwell-velvia/",
